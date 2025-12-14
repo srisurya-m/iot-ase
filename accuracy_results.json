@@ -1,0 +1,252 @@
+[
+    {
+        "query": "What are the features of DDoS-RSTFINFlood?",
+        "answer": "Based on the provided context, the characteristics of DDoS-RSTFINFlood are:\n\n*   **Attack Type:** DDoS-RSTFINFlood\n*   **Flow Duration:** 0.0\n*   **Variance:** Ranges from 0.0 to 0.23\n*   **Weight:** 141.55\n*   **Header Length:** Ranges from 53.46 to 55.22, commonly 54.0\n*   **Protocol Type:** Ranges from 5.94 to 6.11, commonly 6.0\n*   **Duration:** Ranges from 63.36 to 65.91, commonly 64.0\n*   **Rate:** Varies significantly, from 0.0 up to 1048576.0\n*   **Srate (Source Rate):** Matches the Rate, varying from 0.0 up to 1048576.0\n*   **Drate (Destination Rate):** 0.0\n\nThe provided document does not describe the functionalities of DDoS-RSTFINFlood.",
+        "response_time_sec": 12.15
+    },
+    {
+        "query": "What is the weight of DDoS-RSTFINFlood?",
+        "answer": "The weight of DDoS-RSTFINFlood is 141.55.",
+        "response_time_sec": 3.93
+    },
+    {
+        "query": "What features are associated with DoS-TCP_Flood?",
+        "answer": "Based on the provided context, the features associated with a DoS-TCP_Flood attack are:\n\n*   **Flow Duration**: Can be 0.0, 5.40030977, 7.263231649, 6.745006099, or 6.581303055\n*   **Variance**: Can be 0.0, 0.16, or 0.02\n*   **Weight**: Consistently 141.55\n*   **Header Length**: Can be 81.0, 54.0, 108.0, 106.92, or 114.17\n*   **Protocol Type**: Consistently 6.0 or 5.95\n*   **Duration**: Consistently 64.0, 65.91\n*   **Rate**: Can be 0.0, 34.33395, 14.6237261, 0.370350202, 3.585244463, 0.406206096, 10.40803798, 246.5787184, 0.27260644, 15.28444536, 8.050392436, 1283.643152, 1.575160032, 5.313210076, 2.49756633, 784.5686495, 37.55677494, 0.29651567, 0.330673967, or 2.637380493\n*   **Srate**: Matches the Rate values.\n*   **Drate**: Consistently 0.0",
+        "response_time_sec": 15.09
+    },
+    {
+        "query": "What are the features of DDoS-ICMP_Flood?",
+        "answer": "The characteristics and features of a DDoS-ICMP_Flood attack, according to the provided context, are:\n\n*   **Attack Type:** DDoS-ICMP_Flood\n*   **Flow Duration:** 0.0\n*   **Variance:** 0.0\n*   **Weight:** 141.55\n*   **Header Length:** 0.0\n*   **Protocol Type:** 1.0\n*   **Duration:** 64.0\n*   **Rate:** 0.0\n*   **Srate:** 0.0\n*   **Drate:** 0.0",
+        "response_time_sec": 6.62
+    },
+    {
+        "query": "Show me the features of DDoS-SynonymousIP_Flood.",
+        "answer": "The features of DDoS-SynonymousIP_Flood, based on the provided context, are:\n\n*   **Flow Duration**: Ranges from 0.0 to 2.827426703 (with other observed values like 2.86e-08, 0.767230024, 2.81484709, 0.201718736, 1.164815092, 2.099100072, 0.755840738, 0.048715892, 0.003200817).\n*   **Variance**: Ranges from 0.0 to 0.18 (with other observed values like 0.17, 0.14, 0.15, 0.12, 0.07).\n*   **Weight**: Consistently 141.55.\n*   **Header Length**: Ranges from 52.92 to 160.92 (with other observed values like 54.0, 53.46, 70.74, 80.86, 108.0, 160.38, 54.28, 60.48, 112.32, 126.9, 58.32, 55.08).\n*   **Protocol Type**: Ranges from 5.88 to 6.11 (with other observed values like 6.0, 5.94).\n*   **Duration**: Ranges from 62.72 to 64.0 (with other observed values like 63.36).\n*   **Rate**: Ranges from 0.0 to 377487.36.\n*   **Srate**: Ranges from 0.0 to 377487.36.\n*   **Drate**: Consistently 0.0.",
+        "response_time_sec": 25.1
+    },
+    {
+        "query": "What are the features of Mirai-udpplain?",
+        "answer": "I am not trained to handle such queries.",
+        "response_time_sec": 0.4
+    },
+    {
+        "query": "What are the features of Mirai-greAip_flood?",
+        "answer": "I am not trained to handle such queries.",
+        "response_time_sec": 0.33
+    },
+    {
+        "query": "What features describe DDoS-SYN_Flood?",
+        "answer": "Based on the provided context, the characteristics of a DDoS SYN Flood attack are:\n\n*   **Flow Duration:** 0.0\n*   **Variance:** Ranges from 0.0 to 0.19\n*   **Weight:** 141.55\n*   **Header Length:** Ranges from 53.46 to 56.94\n*   **Protocol Type:** Ranges from 5.94 to 6.0\n*   **Duration:** Ranges from 63.36 to 65.73\n*   **Rate:** Ranges from 0.0 to 228.491488\n*   **Srate:** Ranges from 0.0 to 228.491488\n*   **Drate:** 0.0",
+        "response_time_sec": 22.2
+    },
+    {
+        "query": "What are the features of DDoS-PSHACK_Flood?",
+        "answer": "The features of DDoS-PSHACK_Flood, based on the provided context, are:\n\n*   **Flow Duration:** 0.0\n*   **Variance:** 0.0, 0.31, 0.16, 0.15, 0.06\n*   **Weight:** 141.55\n*   **Header Length:** 54.0, 53.5, 54.2, 51.84, 53.46, 53.7, 55.76\n*   **Protocol Type:** 6.0, 5.94, 6.05, 5.76, 6.11\n*   **Duration:** 64.0, 65.27, 63.83, 65.91, 61.44, 63.36, 67.18\n*   **Rate:** 0.0, 0.400300308, 106.10701, 1.2971544, 0.400250324, 1.64260404, 41.46003064, 5.44735557, 2.81256165, 14.1727829, 24.5936046, 1.71313106, 3.857340256, 114.0050828, 0.65102812, 70.341182, 1146.141276, 1.038606366, 12.3499548, 1.20010581, 1.03677555, 2.85500317, 3.857767264\n*   **Srate:** 0.0, 0.400300308, 106.10701, 1.2971544, 0.400250324, 1.64260404, 41.46003064, 5.44735557, 2.81256165, 14.1727829, 24.5936046, 1.71313106, 3.857340256, 114.0050828, 0.65102812, 70.341182, 1146.141276, 1.038606366, 12.3499548, 1.20010581, 1.03677555, 2.85500317, 3.857767264\n*   **Drate:** 0.0",
+        "response_time_sec": 6.88
+    },
+    {
+        "query": "What are the features of DDoS-TCP_Flood?",
+        "answer": "Based on the provided context, the characteristics and features observed for a DDoS TCP Flood attack are:\n\n*   **Flow Duration:** Primarily 0.0, with a few instances of 0.00300081 and 0.002836342.\n*   **Variance:** Predominantly 0.0, with some occurrences of 0.12, 0.18, 0.25, and 0.34.\n*   **Weight:** Consistently 141.55.\n*   **Header Length:** Most commonly 54.0, but also observed as 53.46, 64.47, 60.41, and 55.2.\n*   **Protocol Type:** Predominantly 6.0, with some instances of 5.94 and 6.11.\n*   **Duration:** Most commonly 64.0, with some instances of 63.36 and 65.68.\n*   **Rate:** Varies significantly, including 0.0 and various positive values such as 56.3653565, 4245.246964, 45.25625007, 24.1410254, 0.40065956, 29.6568672, 1.240586762, 24.17683665, 40.9290007, 13.6100677, 27.94366564, 25.9281051, 53.9445454, 3145728.0, 31.82656764, 0.40090115, 3.68240707, and 0.666005103.\n*   **Srate:** Matches the Rate value.\n*   **Drate:** Consistently 0.0.",
+        "response_time_sec": 7.61
+    },
+    {
+        "query": "What are the features of DDoS-UDP_Flood?",
+        "answer": "A DDoS UDP Flood attack, according to the provided data, exhibits the following characteristics and features:\n\n*   **Attack Type:** Exclusively identified as \"DDoS-UDP_Flood\".\n*   **Flow Duration:** Varies significantly, ranging from approximately 0.024 to 0.662.\n*   **Variance:** Predominantly 0.0, but can also be 0.06, 0.07, 0.13, or 0.27 in some instances.\n*   **Weight:** Consistently 141.55 across all observed attacks.\n*   **Header Length:** Shows a broad range, from approximately 4,481 to 44,302.5.\n*   **Protocol Type:** Primarily 17.0 (indicating UDP), with some variations recorded as 16.67, 16.78, or 16.83.\n*   **Duration:** Mostly 64.0, but can also be 63.36, 63.57, or 64.64.\n*   **Rate:** Highly variable, ranging from approximately 1,258.68 to 139,571.11.\n*   **Srate (Source Rate):** Mirrors the \"Rate\" values, ranging from approximately 1,258.68 to 139,571.11.\n*   **Drate (Destination Rate):** Consistently 0.0 for all observed attacks.",
+        "response_time_sec": 16.56
+    },
+    {
+        "query": "What features describe MITM-ArpSpoofing?",
+        "answer": "I am not trained to handle such queries.",
+        "response_time_sec": 0.62
+    },
+    {
+        "query": "What are the features of DDoS-ACK_Fragmentation?",
+        "answer": "The provided context lists several numerical characteristics associated with a DDoS-ACK Fragmentation attack, such as:\n\n*   **Flow Duration** (e.g., 0.0, 0.203741152, 0.000556281)\n*   **Variance** (e.g., 0.94, 0.95, 0.88)\n*   **Weight** (consistently 141.55 in the provided data)\n*   **Header Length** (e.g., 742.9, 757.0, 2281.47)\n*   **Protocol Type** (e.g., 6.0, 6.22, 5.82, 7.14)\n*   **Duration** (e.g., 64.59, 64.0, 70.45)\n*   **Rate** (e.g., 2.00546706, 14.95618128, 103666.9287)\n*   **Srate** (matches Rate in the provided data)\n*   **Drate** (consistently 0.0 in the provided data)\n\nHowever, the context does not describe the functionalities or how a DDoS-ACK Fragmentation attack works.",
+        "response_time_sec": 7.35
+    },
+    {
+        "query": "What numeric features describe DoS-HTTP_Flood?",
+        "answer": "The numeric features that describe DoS-HTTP_Flood, along with their values, are:\n\n*   **Flow Duration**: 1.40703459, 4.16602977, 1.511015265, 0.183032575\n*   **Variance**: 0.87, 0.73, 0.93, 0.13\n*   **Weight**: 141.55 (consistent across all entries)\n*   **Header Length**: 5429.09, 13709.17, 9999.32, 210.12\n*   **Protocol Type**: 7.64, 6.27, 6.21, 6.11\n*   **Duration**: 67.25, 68.01, 67.18, 67.36\n*   **Rate**: 110.7046728, 3.358509761, 7.335072932, 11.24754687\n*   **Srate**: 110.7046728, 3.358509761, 7.335072932, 11.24754687\n*   **Drate**: 0.0 (consistent across all entries)",
+        "response_time_sec": 9.07
+    },
+    {
+        "query": "What are the features of DDoS-ICMP_Fragmentation?",
+        "answer": "The features of DDoS-ICMP_Fragmentation are:\n\n*   Flow Duration\n*   Variance\n*   Weight\n*   Header Length\n*   Protocol Type\n*   Duration\n*   Rate\n*   Srate\n*   Drate",
+        "response_time_sec": 5.63
+    },
+    {
+        "query": "What features describe Recon-PortScan?",
+        "answer": "I am not trained to handle such queries.",
+        "response_time_sec": 0.34
+    },
+    {
+        "query": "What are the features of DNS_Spoofing?",
+        "answer": "I am not trained to handle such queries.",
+        "response_time_sec": 0.35
+    },
+    {
+        "query": "What features describe Recon-OSScan?",
+        "answer": "I am not trained to handle such queries.",
+        "response_time_sec": 0.38
+    },
+    {
+        "query": "What are the features of Recon-HostDiscovery?",
+        "answer": "I am not trained to handle such queries.",
+        "response_time_sec": 0.32
+    },
+    {
+        "query": "What are the features of XSS?",
+        "answer": "I am not trained to handle such queries.",
+        "response_time_sec": 0.6
+    },
+    {
+        "query": "What is the weight of DoS-TCP_Flood?",
+        "answer": "The weight of DoS-TCP_Flood is 141.55.",
+        "response_time_sec": 8.87
+    },
+    {
+        "query": "What is the weight of DDoS-ICMP_Flood?",
+        "answer": "The weight of DDoS-ICMP_Flood is 141.55.",
+        "response_time_sec": 10.16
+    },
+    {
+        "query": "What is the weight of DDoS-UDP_Fragmentation?",
+        "answer": "The quantitative weight assigned to DDoS-UDP_Fragmentation is 141.55.",
+        "response_time_sec": 16.99
+    },
+    {
+        "query": "What is the weight of VulnerabilityScan?",
+        "answer": "I am not trained to handle such queries.",
+        "response_time_sec": 0.34
+    },
+    {
+        "query": "What is the weight of BrowserHijacking?",
+        "answer": "I am not trained to handle such queries.",
+        "response_time_sec": 0.62
+    },
+    {
+        "query": "Compare the features of DDoS-SYN_Flood and DoS-SYN_Flood.",
+        "answer": "Based on the provided context, the features of DDoS-SYN_Flood and DoS-SYN_Flood attacks show significant similarities and some minor overlaps in their variations.\n\n**Similarities:**\n\n*   **Weight:** All entries for both DDoS-SYN_Flood and DoS-SYN_Flood consistently have a `Weight` of **141.55**.\n*   **Drate:** All entries for both attack types consistently have a `Drate` of **0.0**.\n*   **Flow Duration:** Most entries for both attack types show a `Flow Duration` of **0.0**, with a few instances of small non-zero values (e.g., 0.014751 for DoS, 0.00140224 for DDoS).\n*   **Protocol Type:** Both attack types predominantly use `Protocol Type` **6.0**, with some occurrences of 5.94 (and 5.88, 5.95 specifically for DDoS-SYN_Flood in the provided examples).\n*   **Header Length:** Values for `Header Length` are generally around **54.0** for both, with some variations such as 53.46, 54.04, 54.24, 55.08, 56.94, and 68.66 appearing in either or both.\n*   **Duration:** Values for `Duration` are generally around **64.0** for both, with some variations like 63.36, 63.78, 65.69, 63.88, and 66.3 appearing in either or both.\n*   **Variance:** Both attack types exhibit `Variance` values of **0.0** and various small non-zero values (e.g., 0.02, 0.06, 0.07, 0.13, 0.14, 0.17, 0.19).\n*   **Rate/Srate:** Both attack types show a wide range of `Rate` and `Srate` values, from **0.0** up to higher numbers (e.g., 50.58 for DoS and 149.42 for DDoS), indicating varying traffic intensities. `Srate` is always equal to `Rate`.\n\n**Differences:**\n\nBased purely on the provided data, there are no distinctly separating features between DDoS-SYN_Flood and DoS-SYN_Flood. The observed variations in `Flow Duration`, `Variance`, `Header Length`, `Protocol Type`, `Duration`, `Rate`, and `Srate` values overlap significantly between the two attack types.",
+        "response_time_sec": 12.56
+    },
+    {
+        "query": "Which attack has a higher average flow duration: DDoS-UDP_Flood or DDoS-TCP_Flood?",
+        "answer": "Based on the provided context:\n\n*   **DDoS-UDP_Flood** average flow duration:\n    (0.177732956 + 0.264217343 + 0.43015584 + 0.078123536 + 0.160409594 + 0.226911712 + 0.187627077 + 0.063453546 + 0.12765274 + 0.089242558 + 0.25012944 + 0.137357035 + 0.074150534 + 0.121475127 + 0.064880054 + 0.200850167 + 0.241152666 + 0.188423867 + 0.177086034 + 0.13613591 + 0.149389844 + 0.176953664 + 0.205707624 + 0.276372108 + 0.127222128) / 25 = 4.300762085 / 25 = **0.1720304834**\n\n*   **DDoS-TCP_Flood** average flow duration:\n    (0.0 + 0.0 + 0.0 + 0.0 + 0.0 + 0.0 + 0.0) / 7 = 0.0 / 7 = **0.0**\n\nDDoS-UDP_Flood exhibits a higher average flow duration (approximately 0.172) compared to DDoS-TCP_Flood (0.0).",
+        "response_time_sec": 10.24
+    },
+    {
+        "query": "List the top 5 numeric features that change the most for DDoS-ICMP_Flood.",
+        "answer": "The top 5 numeric features that exhibit the greatest change for the DDoS-ICMP_Flood attack type are:\n\n1.  **Header Length:** 32898.17 (from 0.0 to 32898.17)\n2.  **Rate:** 36.82451115 (from 0.0 to 36.82451115)\n3.  **Srate:** 36.82451115 (from 0.0 to 36.82451115)\n4.  **Duration:** 11.48 (from 62.72 to 74.2)\n5.  **Protocol Type:** 9.09 (from 0.98 to 10.07)",
+        "response_time_sec": 14.53
+    },
+    {
+        "query": "Summarize the differences between Mirai-udpplain and Mirai-greeth_flood.",
+        "answer": "I am not trained to handle such queries.",
+        "response_time_sec": 0.37
+    },
+    {
+        "query": "Which protocol number appears most frequently for Recon-PortScan?",
+        "answer": "I am not trained to handle such queries.",
+        "response_time_sec": 0.31
+    },
+    {
+        "query": "Which label has the smallest header length value in the dataset?",
+        "answer": "I am not trained to handle such queries.",
+        "response_time_sec": 0.32
+    },
+    {
+        "query": "Give a statistical summary for DDoS-TCP_Flood (min, max, mean if available).",
+        "answer": "Here is a statistical summary for DDoS-TCP_Flood based on the provided context:\n\n**Attack Type: DDoS-TCP_Flood**\n(Total 32 entries)\n\n*   **Flow Duration:**\n    *   Minimum: 0.0\n    *   Maximum: 0.050162871\n    *   Mean: 0.00195699719\n*   **Variance:**\n    *   Minimum: 0.0\n    *   Maximum: 0.34\n    *   Mean: 0.0525\n*   **Weight:**\n    *   Minimum: 141.55\n    *   Maximum: 141.55\n    *   Mean: 141.55\n*   **Header Length:**\n    *   Minimum: 52.92\n    *   Maximum: 127.95\n    *   Mean: 59.35375\n*   **Protocol Type:**\n    *   Minimum: 5.88\n    *   Maximum: 6.11\n    *   Mean: 5.9975\n*   **Duration:**\n    *   Minimum: 62.72\n    *   Maximum: 65.91\n    *   Mean: 64.1334375\n*   **Rate:**\n    *   Minimum: 0.0\n    *   Maximum: 1677721.6\n    *   Mean: 52442.6464109\n*   **Srate:**\n    *   Minimum: 0.0\n    *   Maximum: 1677721.6\n    *   Mean: 52442.6464109\n*   **Drate:**\n    *   Minimum: 0.0\n    *   Maximum: 0.0\n    *   Mean: 0.0",
+        "response_time_sec": 24.88
+    },
+    {
+        "query": "What is the expected packet behavior pattern of DDoS-PSHACK_Flood?",
+        "answer": "The expected packet behavior pattern for DDoS-PSHACK_Flood, based on the provided context, is characterized by:\n\n*   **Flow Duration:** Consistently 0.0.\n*   **Weight:** Consistently 141.55.\n*   **Drate:** Consistently 0.0.\n*   **Variance:** Predominantly 0.0, with occasional small deviations (e.g., 0.12, 0.15, 0.16, 0.19, 0.31).\n*   **Header Length:** Primarily 54.0, with some slight variations around this value (e.g., 51.84 to 55.6).\n*   **Protocol Type:** Mainly 6.0, with some slight variations (e.g., 5.76 to 6.22).\n*   **Duration:** Largely 64.0, with some slight variations (e.g., 61.44 to 65.91).\n*   **Rate** and **Srate:** Highly variable, ranging from 0.0 to values over 1000 (e.g., 1146.141276).",
+        "response_time_sec": 9.47
+    },
+    {
+        "query": "Which feature varies the most for MITM-ArpSpoofing?",
+        "answer": "I am not trained to handle such queries.",
+        "response_time_sec": 0.63
+    },
+    {
+        "query": "Does DDoS-ICMP_Flood have mostly zero values? Explain.",
+        "answer": "I could not find the answer in the provided document.",
+        "response_time_sec": 12.2
+    },
+    {
+        "query": "Compare BenignTraffic with Recon-HostDiscovery.",
+        "answer": "I am not trained to handle such queries.",
+        "response_time_sec": 0.29
+    },
+    {
+        "query": "Which attack shows the highest number of zero-valued features?",
+        "answer": "I am not trained to handle such queries.",
+        "response_time_sec": 0.3
+    },
+    {
+        "query": "What feature uniquely identifies DNS_Spoofing based on the dataset?",
+        "answer": "I am not trained to handle such queries.",
+        "response_time_sec": 0.27
+    },
+    {
+        "query": "What is a distinguishing characteristic between Backdoor_Malware and BrowserHijacking?",
+        "answer": "I am not trained to handle such queries.",
+        "response_time_sec": 0.3
+    },
+    {
+        "query": "Give a high-level explanation of how to detect XSS using the dataset features.",
+        "answer": "I am not trained to handle such queries.",
+        "response_time_sec": 0.32
+    },
+    {
+        "query": "What are the features of DDoS-UDP_Fragmentation?",
+        "answer": "The features of DDoS-UDP_Fragmentation are:\n\n*   **Flow Duration**: Ranges from 0.003119118 to 10.04616011\n*   **Variance**: Ranges from 0.94 to 0.95\n*   **Weight**: 141.55\n*   **Header Length**: Ranges from 13247.5 to 736182.5\n*   **Protocol Type**: Ranges from 13.36 to 17.0\n*   **Duration**: Ranges from 60.8 to 85.47\n*   **Rate**: Ranges from 37.45290517 to 6817.621638\n*   **Srate**: Ranges from 37.45290517 to 6817.621638\n*   **Drate**: 0.0",
+        "response_time_sec": 24.76
+    },
+    {
+        "query": "What are the features of CommandInjection?",
+        "answer": "I am not trained to handle such queries.",
+        "response_time_sec": 0.3
+    },
+    {
+        "query": "What are the features of VulnerabilityScan?",
+        "answer": "I am not trained to handle such queries.",
+        "response_time_sec": 0.58
+    },
+    {
+        "query": "What are the features of DDoS-SlowLoris?",
+        "answer": "I could not find the answer in the provided document.",
+        "response_time_sec": 8.8
+    },
+    {
+        "query": "What features describe Backdoor_Malware?",
+        "answer": "I am not trained to handle such queries.",
+        "response_time_sec": 0.61
+    },
+    {
+        "query": "What are the features of BrowserHijacking?",
+        "answer": "I am not trained to handle such queries.",
+        "response_time_sec": 0.27
+    },
+    {
+        "query": "What are the features of BenignTraffic?",
+        "answer": "I am not trained to handle such queries.",
+        "response_time_sec": 0.27
+    },
+    {
+        "query": "Which features show anomalies in Mirai-greeth_flood?",
+        "answer": "I am not trained to handle such queries.",
+        "response_time_sec": 0.26
+    },
+    {
+        "query": "Which flow properties are extreme in DDoS-ICMP_Fragmentation?",
+        "answer": "Based on the provided context for \"DDoS-ICMP_Fragmentation\" attacks, the following flow properties are considered extreme:\n\n*   **Flow Duration:** While many instances show a duration of `0.0`, some fragmentation attacks exhibit higher durations, with `1.474779336` being the highest observed.\n*   **Header Length:** Although many entries have a `0.0` Header Length, values as high as `158.34` and `55.73` are present.\n*   **Protocol Type:** While values often hover around `1.0` to `1.7`, some instances show higher Protocol Types, such as `3.22` and `2.36`.\n*   **Rate and Srate:** These values vary significantly, ranging from `0.0` to very high numbers. Extreme high values include `10496.34076` and `6453.599976`.\n*   **Drate:** All observed `Drate` values for DDoS-ICMP_Fragmentation attacks are `0.0`, which represents a consistently low, extreme value.",
+        "response_time_sec": 11.01
+    },
+    {
+        "query": "Explain the behavior of DoS-UDP_Flood using its feature distribution.",
+        "answer": "The behavior of a DoS-UDP_Flood attack, based on its feature distribution in the provided context, can be characterized as follows:\n\n*   **Flow Duration:** Varies significantly, ranging from instantaneous (0.0) to several seconds (up to 7.12 seconds). Many instances show a flow duration of 0.0, while others are small fractional values, and some are in the range of 5-7 seconds.\n*   **Variance:** The variance in these attacks ranges from 0.0 to 0.37. Several instances show a variance of 0.0, but other common values are around 0.16-0.19, 0.08, 0.09, 0.1, 0.29, and 0.37.\n*   **Weight:** Consistently 141.55 across all recorded DoS-UDP_Flood instances.\n*   **Header Length:** This feature shows a very wide distribution, from small values like 42.0 or 84.0 up to extremely large values such as 100668.34. There are also many instances in the hundreds, thousands, and tens of thousands.\n*   **Protocol Type:** Predominantly 17.0 (which corresponds to UDP). Other values are very close to 17, ranging from 16.04 to 16.89, 16.72, 16.83, 16.67, 16.52, 16.73, 16.84, 16.04, 16.78, and 16.68.\n*   **Duration:** Most durations are concentrated around 64.0, but they can range from 63.36 to 75.46.\n*   **Rate & Srate:** These features are identical and show an extremely wide range, from 0.0 (indicating no traffic during that measurement period) to very high rates exceeding 143,000. Common values include low rates (0.0 - a few), medium rates (hundreds), and high rates (thousands to tens of thousands).\n*   **Drate:** Consistently 0.0 across all recorded DoS-UDP_Flood instances, indicating no downstream rate.\n\nIn summary, a DoS-UDP_Flood attack is characterized by a fixed weight and no downstream rate, primarily using Protocol Type 17 (UDP) or values very close to it. The attack can have variable flow durations (including instantaneous), header lengths, and rates, ranging from very low to extremely high, with many instances showing high header lengths and rates. The duration of the measurement period is generally around 64, with some variation.",
+        "response_time_sec": 18.6
+    }
+]
